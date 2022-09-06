@@ -1,4 +1,5 @@
-# FOSS Community of NIBM
-The official GitHub community organization for NIBM's FOSS community.
+## NIBM FOSS Community
 
-## 👋 Welcome
+We are a group of NIBM students and volunteers who believe in spreading free and open-source knowledge to everyone on our campus.
+
+Powered by [NIBM Computing Society](https://github.com/nibmcs)
